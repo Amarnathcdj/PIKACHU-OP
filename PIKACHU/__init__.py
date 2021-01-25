@@ -205,7 +205,7 @@ DEMONS = list(DEMONS)
 TIGERS = list(TIGERS)
 
 # Load at end to ensure all prev variables have been set
-from LEGEND.modules.helper_funcs.handlers import (CustomCommandHandler,
+from PIKACHU.modules.helper_funcs.handlers import (CustomCommandHandler,
                                                         CustomMessageHandler,
                                                         CustomRegexHandler)
 
